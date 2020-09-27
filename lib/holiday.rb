@@ -52,6 +52,7 @@ def all_winter_holiday_supplies(holiday_hash)
   xmas = holiday_hash[:winter][:christmas]
   ny = holiday_hash[:winter][:new_years]
   xmas_season =  xmas + ny
+  xmas_season
 
 end
 
